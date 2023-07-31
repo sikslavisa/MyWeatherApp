@@ -1,0 +1,77 @@
+/* Reset default styles */
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set default font family and size */
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Add some spacing between elements */
+  body, h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+    margin-bottom: 10px;
+  }
+  
+  /* Style header and footer */
+  header, footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+  }
+  
+  /* Style navigation */
+  nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Style section */
+  section {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+  }
+  
+  /* Style headings */
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  h2 {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  /* Style paragraphs */
+  p {
+    line-height: 1.5;
+  }
+  
+  /* Add some spacing to list items */
+  ul, ol {
+    padding-left: 20px;
+  }
+  
+  /* Add some spacing to images */
+  img {
+    margin-bottom: 10px;
+  }
+  
